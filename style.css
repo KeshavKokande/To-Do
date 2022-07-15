@@ -9,8 +9,8 @@ body{
     height: 100vh;
     background: linear-gradient(
         135deg,
-        #8052ec,
-        #d161ff
+        #598558,
+        #bb7431
     );
 }
 .container{
@@ -57,7 +57,7 @@ body{
     border-radius: 5px;
     font-weight: 500;
     font-size: 16px;
-    background-color: #8052ec;
+    background-color: #b88d22;
     border: none;
     color: #ffffff;
     border-radius: 20px;
